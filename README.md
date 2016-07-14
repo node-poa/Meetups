@@ -1,5 +1,8 @@
 # [2º meetup](http://www.meetup.com/pt-BR/Node-js-Porto-Alegre-Meetup/events/232108588/)
-	
+* Deixe seu feedback [aqui](https://docs.google.com/forms/d/e/1FAIpQLSfESwgWwxdKwmOnVB1FqQnW4eeUZA4h2dNdviGBy5B8t81bfw/viewform)
+
+
+
 ## Talks
 - [Event Loop](https://slides.com/expalmer/event-loop-in-javascript/fullscreen) - Palmer Oliveira, código: <WIP>.
 - [JS Modules](http://slides.com/jeanbauerc/es-modules#/) - Jean Bauer, código: <WIP>. 
