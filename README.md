@@ -7,7 +7,7 @@
 - [JS Modules](http://slides.com/jeanbauerc/es-modules#/) - Jean Bauer, código: <WIP>.
 - [Módulos nativos](https://slides.com/tiagooliveira/node-native-modules) - Tiago Oliveira, código: https://github.com/agco/yubikey-piv-node
 - [Event Sourcing](http://slides.com/adamatti/eventsourcing) - [Marcelo Adamatti](https://adamatti.github.io), código [ [event emitter](http://image.slidesharecdn.com/02-eventemitter-140721230507-phpapp02/95/nodejs-event-emitter-2-638.jpg?cb=1405984260) | [config mq](https://github.com/adamatti/LearnRabbitMQ/blob/master/app/test2/index.js) | [servicebus](http://slides.com/stefankutko/nodejs-microservices-event-sourcing-cqrs#/14) | [poc](https://github.com/dclucas/nodejs-eventsourcing) ]
-- [Building Restful APIs with harvesterjs](http://www.slideshare.net/marcelocure/building-restful-ap-is-with-harvester-js-63988326) - Marcelo Cure, código: <WIP>.
+- [Building Restful APIs with harvesterjs](http://www.slideshare.net/marcelocure/building-restful-ap-is-with-harvester-js-63988326) - Marcelo Cure, código: [bands-api](https://github.com/marcelocure/sandbox/tree/master/node/test-harvesterjs-bands-api) | [recorders-api](https://github.com/marcelocure/sandbox/tree/master/node/test-harvesterjs-recorders-api)
 
 
 ## Links comentados (durante e depois das talks)
