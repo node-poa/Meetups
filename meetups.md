@@ -5,7 +5,10 @@ Meetup Node.js POA
 
 ## Próximo meetup :calendar:
 
-> *Breve!*
+
+
+https://www.meetup.com/pt-BR/Node-js-Porto-Alegre-Meetup/events/234972051/
+> Terça-feira, 1 de Novembro de 2016 19:30
 
 ---------------------------------------
 
