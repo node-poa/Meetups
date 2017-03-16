@@ -1,9 +1,11 @@
-# Node.js meetup PoA
+# Node.js POA meetup
 > Fique à vontade para ajudar com locais, talks e organização.
 
-* :mailbox_with_mail: [Meetup.com](http://www.meetup.com/pt-BR/Node-js-Porto-Alegre-Meetup/)
-* :white_check_mark: [Meetups realizados](./meetups)
-
+* [Meetup - Node.js POA](http://www.meetup.com/pt-BR/Node-js-Porto-Alegre-Meetup) :mega:
+* [Meetups realizados](./meetups) :white_check_mark:
+* [Twitter @nodejspoa](http://twitter.com/nodejspoa) :mailbox_with_mail:
+* [Slack @nodebr](https://slack.nodebr.org/) - [#nodejspoa](https://nodebr.slack.com/messages/C4JSNRAJV/details) :beers:
+* [Vídeos](https://www.youtube.com/channel/UCwR1Dr3fjGAdoG5xS3Qslmg) :vhs:
 
 ## Como participo?
 
@@ -12,7 +14,6 @@ Entre em [Meetup.com](http://www.meetup.com/pt-BR/Node-js-Porto-Alegre-Meetup/) 
 ## Quero apresentar algo!
 
 Seja bem vindo para trazer seu conteúdo para o grupo, assim que tivermos o próximo _meetup_ confirmado, iremos entrar em contato pra verificar sua disponibilidade na data do evento.
-
 
 ## Tenho local disponível
 
