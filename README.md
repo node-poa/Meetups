@@ -1,8 +1,10 @@
 # Node.js POA meetup
 > Fique à vontade para ajudar com locais, talks e organização.
 
+* [Próximo Meetup - 10/10](./meetups/08.md) :rocket: [Call for papers aberto!](https://github.com/node-poa/Meetups/issues/18)
 * [Meetup - Node.js POA](http://www.meetup.com/pt-BR/Node-js-Porto-Alegre-Meetup) :mega:
-* [Meetups realizados](./meetups) :white_check_mark:
+* [Meetup Anterior - 23/08](./meetups/07.md)
+* [Todos os Meetups](./meetups) :white_check_mark:
 * [Twitter @nodejspoa](http://twitter.com/nodejspoa) :mailbox_with_mail:
 * [Slack @nodebr](https://slack.nodebr.org/) - [#nodejspoa](https://nodebr.slack.com/messages/C4JSNRAJV/details) :beers:
 * [Vídeos](https://www.youtube.com/channel/UCwR1Dr3fjGAdoG5xS3Qslmg) :vhs:
