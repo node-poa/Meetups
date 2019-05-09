@@ -3,7 +3,6 @@
 
 * [Todos os Meetups](./meetups) :white_check_mark:
 * [Twitter @nodejspoa](http://twitter.com/nodejspoa) :mailbox_with_mail:
-* [Slack @nodebr](https://slack.nodebr.org/) - [#nodejspoa](https://nodebr.slack.com/messages/C4JSNRAJV/details) :beers:
 * [Vídeos](https://www.youtube.com/channel/UCwR1Dr3fjGAdoG5xS3Qslmg) :vhs:
 
 ## Como participo?
